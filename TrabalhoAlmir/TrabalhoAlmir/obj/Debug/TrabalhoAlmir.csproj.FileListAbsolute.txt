@@ -1,0 +1,13 @@
+C:\Users\windows 8\Desktop\fema\Trabalho almir\TrabalhoAlmir\TrabalhoAlmir\bin\Debug\TrabalhoAlmir.exe.config
+C:\Users\windows 8\Desktop\fema\Trabalho almir\TrabalhoAlmir\TrabalhoAlmir\bin\Debug\TrabalhoAlmir.exe
+C:\Users\windows 8\Desktop\fema\Trabalho almir\TrabalhoAlmir\TrabalhoAlmir\bin\Debug\TrabalhoAlmir.pdb
+C:\Users\windows 8\Desktop\fema\Trabalho almir\TrabalhoAlmir\TrabalhoAlmir\obj\Debug\TrabalhoAlmir.csprojResolveAssemblyReference.cache
+C:\Users\windows 8\Desktop\fema\Trabalho almir\TrabalhoAlmir\TrabalhoAlmir\obj\Debug\TrabalhoAlmir.Properties.Resources.resources
+C:\Users\windows 8\Desktop\fema\Trabalho almir\TrabalhoAlmir\TrabalhoAlmir\obj\Debug\TrabalhoAlmir.csproj.GenerateResource.Cache
+C:\Users\windows 8\Desktop\fema\Trabalho almir\TrabalhoAlmir\TrabalhoAlmir\obj\Debug\TrabalhoAlmir.exe
+C:\Users\windows 8\Desktop\fema\Trabalho almir\TrabalhoAlmir\TrabalhoAlmir\obj\Debug\TrabalhoAlmir.pdb
+C:\Users\windows 8\Desktop\fema\Trabalho almir\TrabalhoAlmir\TrabalhoAlmir\obj\Debug\TrabalhoAlmir.frmCliente.resources
+C:\Users\windows 8\Desktop\fema\Trabalho almir\TrabalhoAlmir\TrabalhoAlmir\obj\Debug\TrabalhoAlmir.frmProduto.resources
+C:\Users\windows 8\Desktop\fema\Trabalho almir\TrabalhoAlmir\TrabalhoAlmir\obj\Debug\TrabalhoAlmir.frmVendas.resources
+C:\Users\windows 8\Desktop\fema\Trabalho almir\TrabalhoAlmir\TrabalhoAlmir\obj\Debug\TrabalhoAlmir.frmMenu.resources
+C:\Users\windows 8\Desktop\fema\Trabalho almir\TrabalhoAlmir\TrabalhoAlmir\obj\Debug\TrabalhoAlmir.frmSobre.resources
